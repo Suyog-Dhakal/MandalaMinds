@@ -1,4 +1,4 @@
-#Real-Time Gesture-to-Speech Converter  
+## Real-Time Gesture-to-Speech Converter  
 *Distributed Computing Project (CEG 7370)*  
 
 ## Team Members  
